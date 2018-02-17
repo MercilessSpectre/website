@@ -1,3 +1,8 @@
+PolyWizardry Entertainment Website
+
+Edited by dragonejt (or ilexcrystal) with a base CSS Theme by HTML5 Up
+
+
 Landed by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
